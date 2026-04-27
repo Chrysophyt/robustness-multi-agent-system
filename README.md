@@ -31,7 +31,7 @@ A person might slowly over time change their belief. This momentum of change is 
 #### Peer Influence
 
 
-![image](resources\1_FJ_Illustration.png)
+![image](resources/1_FJ_Illustration.png)
 
 #### Example 1 Attacker, 5 Benign
 
